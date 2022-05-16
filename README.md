@@ -11,4 +11,7 @@ You can select:
 
 It has never been easier to enjoy your perfectly cooked eggs for breakfast or any time of the day.
 
-Have fun when boiling eggs with Egg timer!![EggTimer](https://user-images.githubusercontent.com/89012665/168583549-a49fa1c9-f8cf-4bf0-982e-63706c476282.gif)
+Have fun when boiling eggs with Egg timer!
+
+
+![EggTimer](https://user-images.githubusercontent.com/89012665/168583549-a49fa1c9-f8cf-4bf0-982e-63706c476282.gif)
